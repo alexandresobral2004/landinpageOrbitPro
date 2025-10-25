@@ -246,8 +246,13 @@ def main():
     st.markdown("""
         <div style="background: white; padding: 1rem 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
             <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
-                <div style="font-family: 'Poppins', sans-serif; font-size: 1.5rem; font-weight: 600; color: #333333;">
-                    Orbit <span style="color: #00BFFF; font-weight: 700;">PRO</span>
+                <div style="display: flex; align-items: center; gap: 1rem; font-family: 'Poppins', sans-serif;">
+                    <div style="font-size: 2.2rem; font-weight: 600; color: #333333;">
+                        Orbit <span style="color: #00BFFF; font-weight: 700;">PRO</span>
+                    </div>
+                    <div style="font-size: 0.9rem; color: #666; padding-left: 1rem; border-left: 2px solid #00BFFF; font-weight: 500;">
+                        Soluções em IA
+                    </div>
                 </div>
             </div>
         </div>
