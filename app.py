@@ -406,7 +406,7 @@ def main():
             <div class="contact-info">
                 <div style="font-size: 2rem; color: #00BFFF; margin-bottom: 1rem;">🌐</div>
                 <h3 style="font-family: 'Poppins', sans-serif; color: #333333; margin-bottom: 0.5rem;">Website</h3>
-                <p style="color: #555555;">www.orbitpro.com.br</p>
+                <p style="color: #555555;">https://orbitpro.streamlit.app/</p>
             </div>
         """, unsafe_allow_html=True)
     
@@ -443,7 +443,7 @@ def main():
                 Orbit <span style="color: #00BFFF; font-weight: 700;">PRO</span>
             </div>
             <p style="color: #CCCCCC; margin: 0;">
-                © 2025 Orbit PRO. Todos os direitos reservados. | www.orbitpro.com.br
+                © 2025 Orbit PRO. Todos os direitos reservados. | https://orbitpro.streamlit.app/
             </p>
         </div>
     """, unsafe_allow_html=True)
