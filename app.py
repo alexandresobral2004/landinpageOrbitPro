@@ -411,7 +411,7 @@ def main():
             <div class="contact-info">
                 <div style="font-size: 2rem; color: #00BFFF; margin-bottom: 1rem;">🌐</div>
                 <h3 style="font-family: 'Poppins', sans-serif; color: #333333; margin-bottom: 0.5rem;">Website</h3>
-                <p style="color: #555555;">https://orbitpro.streamlit.app/</p>
+                <p style="color: #555555;">https://orbitprosobral.onrender.com/</p>
             </div>
         """, unsafe_allow_html=True)
     
