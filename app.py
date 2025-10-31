@@ -448,7 +448,7 @@ def main():
                 Orbit <span style="color: #00BFFF; font-weight: 700;">PRO</span>
             </div>
             <p style="color: #CCCCCC; margin: 0;">
-                © 2025 Orbit PRO. Todos os direitos reservados. | https://orbitpro.streamlit.app/
+                © 2025 Orbit PRO. Todos os direitos reservados. | https://orbitprosobral.onrender.com/
             </p>
         </div>
     """, unsafe_allow_html=True)
